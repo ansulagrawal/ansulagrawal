@@ -3,15 +3,16 @@
 <h3>Hey there 👋,</h3><hr /><h1<br /> <br />
 <h1 align="center">I'm Ansul Agrawal</h1>
 
-<h3 align="left">I'm currently pursuing my Computer Science Degree from REVA University, Bangalore, India.🎓<h3>
+<h3 align="left">I'm currently pursuing my Computer Science Degree from REVA University, Bangalore, India. 🎓<h3>
 <hr>
 <br />
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
   
 <h3 align="left">Somethings About Me</h3>
-  <p align="left">1. I am not a morning person ;) </p>
-  <p align="left">2. Love Trees 🌳 & Mountains ⛰️ </p>
-  <p align="left">3. Love to read Books 📚 </p>
+  <p align="left">1. Love to read Books 📚 </p>
+  <p align="left">2. I am not a morning person </p>
+  <p align="left">3. Love Trees 🌳 & Mountains ⛰️ </p>
+  <p align="left">4. Love to play chess ♔ ♕ ♗ ♘ ♙ </p>
 
 <br />
 <br />
