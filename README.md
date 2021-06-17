@@ -1,9 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=ansulagrawal)
 
 <h3>Hey there 👋,</h3><hr /><h1<br /> <br />
-<h1>I'm Ansul Agrawal</h1>
+<h1 align="center">I'm Ansul Agrawal</h1>
 
-<h3 align="left">I'm currently pursuing my Computer Science Degree from REVA University, Bangalore, India.  🎓<h3>
+<h3 align="left">I'm currently pursuing my Computer Science Degree from REVA University, Bangalore, India.🎓<h3>
 <hr>
 <br />
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
