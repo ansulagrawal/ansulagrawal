@@ -15,7 +15,7 @@
 
 <br />
 <br />
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitksh81&layout=compact&hide=makefile&theme=nord" alt="Most used languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=ansulagrawal&show_icons=true&count_private=true&hide=contribs,issues&theme=nord" />
 </p>
