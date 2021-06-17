@@ -6,17 +6,16 @@
 <h3 align="left">I'm currently pursuing my Computer Science Degree from REVA University, Bangalore, India. 🎓<h3>
 <hr>
 <br />
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
   
-<h3 align="left">Somethings About Me</h3>
-  <p align="left">1. Love to read Books 📚 </p>
-  <p align="left">2. I am not a morning person </p>
-  <p align="left">3. Love Trees 🌳 & Mountains ⛰️ </p>
-  <p align="left">4. Love to play chess ♔ ♕ ♗ ♘ ♙ </p>
+<h3 align="center">Somethings About Me</h3>
+  <p align="center">1. Love to read Books 📚 </p>
+  <p align="center">2. I am not a morning person </p>
+  <p align="center">3. Love Trees 🌳 & Mountains ⛰️ </p>
+  <p align="center">4. Love to play chess ♔ ♕ ♗ ♘ ♙ </p>
 
 <br />
 <br />
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitksh81&layout=compact&hide=makefile&theme=nord" alt="Most used languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=ansulagrawal&show_icons=true&count_private=true&hide=contribs,issues&theme=nord />
 </p>
