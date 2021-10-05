@@ -26,11 +26,9 @@
 - Facebook: https://www.facebook.com/ansulagrawal09/
 - Twitter: https://twitter.com/ansulagrawal09
 <hr /> <br />
-  <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=ansulagrawal&show_icons=true&count_private=true&hide=contribs,issues&theme=nord" />
-  </p>
-  <hr />
-  <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitksh81&layout=compact&hide=makefile&theme=nord" alt="Most used languages" />
-  </p>
   
+
+
+| ![Ansul GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ansulagrawal&show_icons=true&theme=tokyonight&locale=en) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansulagrawal&hide=Jupyter%20Notebook&show_icons=true&langs_count=8&theme=tokyonight&locale=en&layout=compact) |
+| --- | --- |
+| ![Ansul GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ansulagrawal&theme=dark) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
