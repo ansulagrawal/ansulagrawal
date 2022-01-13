@@ -15,7 +15,7 @@
 
 <br />
 
-<p>I'm an ambitious Full Stack web developer. I have worked on many independent projects and collaborated with others for some projects. I'm currently learning [React Native](https://reactnative.dev/), while adding skills to my arsenal.</p>
+<p>I'm an ambitious Full Stack web developer. I have worked on many independent projects and collaborated with others for some projects. I'm currently learning [Next JS], while adding skills to my arsenal.</p>
 <hr /> <br />
 
 <h3>Here's how to connect me:</h3>
