@@ -30,5 +30,5 @@
 | ![Ansul GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ansulagrawal&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&locale=en) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansulagrawal&hide=Jupyter%20Notebook&show_icons=true&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&locale=en&layout=compact) |
 | --- | --| 
   
-![Ansul GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ansulagrawal&theme=dark) 
+![Ansul GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ansulagrawal&theme=dark&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&locale=en) 
 
