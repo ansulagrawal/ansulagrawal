@@ -14,6 +14,8 @@
   <p align="center">4. Love to play chess ♔ ♕ ♗ ♘ ♙ </p>
 
 <br />
+  <br />
+  
 
 <p>I'm an ambitious Full Stack web developer. I have worked on many independent projects and collaborated with others for some projects. I'm currently learning [Next JS], while adding skills to my arsenal.</p>
 <hr /> <br />
