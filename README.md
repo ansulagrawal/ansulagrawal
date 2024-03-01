@@ -1,5 +1,5 @@
 # 💫 About Me:
-[Portfolio](https://ansulagrawal.vercel.app/resume) <br><br>
+[Portfolio](https://ansulagrawal.vercel.app) <br><br>
 🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>AWS Services and NextJs.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content. <br><br>👯 **I’m looking to collaborate:** <br>[react-big-schedule](https://github.com/react-scheduler/react-big-schedule)
 
 
