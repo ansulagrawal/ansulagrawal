@@ -17,7 +17,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ansulagrawal&limit=3&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ansulagrawal&icon=0&color=0)](https://visitcount.itsvg.in) <img src="https://komarev.com/ghpvc/?username=ansulagrawal&label=Profile%20views&color=0e75b6&style=flat" alt="ansulagrawal" />
+<img src="https://komarev.com/ghpvc/?username=ansulagrawal&label=Profile%20views&color=0e75b6&style=flat" alt="ansulagrawal" />
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
