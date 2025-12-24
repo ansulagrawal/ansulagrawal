@@ -1,25 +1,213 @@
-# 💫 About Me:
-[Portfolio](https://ansulagrawal.vercel.app) <br><br>
-🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>AWS Services and NextJs.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content. <br><br>👯 **I’m looking to collaborate:** <br>[react-big-schedule](https://github.com/react-scheduler/react-big-schedule)
+<div align="center">
+  <h1>👋 Hi, I'm Ansul Agrawal</h1>
+  <h3>🚀 Full Stack Developer & Software Engineer</h3>
 
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+universe+%F0%9F%8C%8C;Building+scalable+applications+%F0%9F%9A%80;Crafting+elegant+solutions+%F0%9F%92%8E" alt="Typing SVG" />
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ansulagrawal)
+<div align="center">
 
-# 💻 Tech Stack:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ansulagrawal)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ansulagrawal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansulagrawal9@gmail.com)
 
-# 📊 GitHub Stats:
-<!-- 
-![](https://github-readme-stats.vercel.app/api?username=ansulagrawal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ansulagrawal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ansulagrawal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
---->
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ansulagrawal&limit=3&theme=tokyonight&combine_all_yearly_contributions=true)
+</div>
 
 ---
-<img src="https://komarev.com/ghpvc/?username=ansulagrawal&label=Profile%20views&color=0e75b6&style=flat" alt="ansulagrawal" />
 
+<h2 align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="35" style="vertical-align: middle;">
+  About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</h2>
+
+```javascript
+class Developer {
+  constructor() {
+    this.name = "Ansul Agrawal";
+    this.role = "Software Engineer";
+    this.location = "India 🇮🇳";
+    this.experience = "3+ years";
+    this.education = "B. Tech in Computer Science and Engineering";
+  }
+
+  getCurrentStatus() {
+    return {
+      workingAt: "RedAnt Technologies",
+      currentProjects: [
+        "OTA Update System for Robots",
+        "Enterprise Automation Solutions",
+      ],
+      learning: ["Cloud Architecture", "System Design", "DevOps"],
+      maintaining: "React Big Schedule (175+ ⭐, 2000+ weekly downloads)",
+      motto: "Code with passion, build with purpose",
+    };
+  }
+
+  getSkills() {
+    return ["Problem Solving", "Clean Code", "Innovation"];
+  }
+}
+
+const ansul = new Developer();
+console.log(ansul.getCurrentStatus());
+```
+
+---
+
+<h2 align="center">
+💼 Professional Highlights
+</h2>
+
+- 🔧 Building OTA Update Systems for robotic fleets using FastAPI, React & Keycloak
+- 🏢 3+ years of experience in full-stack development
+- 👥 Led teams of 6+ engineers, reducing production bugs by 35%
+- 🚀 Optimized systems serving 1000+ users with 500+ concurrent connections
+- ⚡ Improved page load times by 40% through performance optimization
+- 🤖 Automated workflows reducing manual effort by 80%
+- 📦 Maintained open-source project with 2000+ weekly npm downloads
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="vertical-align: middle;">
+  Currently Exploring
+</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60"/>
+<br><strong>Cloud Computing</strong>
+<br><sub>AWS & Azure</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60"/>
+<br><strong>DevOps & CI/CD</strong>
+<br><sub>Automation</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" height="60"/>
+<br><strong>System Design</strong>
+<br><sub>Scalable Architecture</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" style="vertical-align: middle;">
+  Tech Arsenal
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" style="vertical-align: middle;">
+</h2>
+
+<div align="center">
+
+<table style="border-collapse: separate; border-spacing: 0;">
+<tr>
+<td align="center" width="20%" style="border: none; padding: 10px;">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="60" height="60"/>
+<br><strong>JavaScript</strong>
+<br><sub>ES6+ & Modern JS</sub>
+</td>
+<td align="center" width="20%" style="border: none; padding: 10px;">
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="60" height="60"/>
+<br><strong>TypeScript</strong>
+<br><sub>Type-safe Development</sub>
+</td>
+<td align="center" width="20%" style="border: none; padding: 10px;">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="60" height="60"/>
+<br><strong>React</strong>
+<br><sub>Component-based UI</sub>
+</td>
+<td align="center" width="20%" style="border: none; padding: 10px;">
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="60" height="60"/>
+<br><strong>Node.js</strong>
+<br><sub>Server-side JavaScript</sub>
+</td>
+<td align="center" width="20%" style="border: none; padding: 10px;">
+<img src="https://skillicons.dev/icons?i=express&theme=dark" width="60" height="60"/>
+<br><strong>Express.js</strong>
+<br><sub>Web Framework</sub>
+</td>
+</tr>
+<tr><td colspan="5" style="height: 30px; border: none;"></td></tr>
+<tr>
+<td align="center" width="20%" style="border: none; padding: 10px;">
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="60" height="60"/>
+<br><strong>MongoDB</strong>
+<br><sub>NoSQL Database</sub>
+</td>
+<td align="center" width="20%" style="border: none; padding: 10px;">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="60" height="60"/>
+<br><strong>MySQL</strong>
+<br><sub>Relational Database</sub>
+</td>
+<td align="center" width="20%" style="border: none; padding: 10px;">
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="60" height="60"/>
+<br><strong>HTML5</strong>
+<br><sub>Semantic Markup</sub>
+</td>
+<td align="center" width="20%" style="border: none; padding: 10px;">
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="60" height="60"/>
+<br><strong>CSS3</strong>
+<br><sub>Modern Styling</sub>
+</td>
+<td align="center" width="20%" style="border: none; padding: 10px;">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="60" height="60"/>
+<br><strong>Git</strong>
+<br><sub>Version Control</sub>
+</td>
+</tr>
+<tr><td colspan="5" style="height: 30px; border: none;"></td></tr>
+<tr>
+<td align="center" width="20%" style="border: none; padding: 10px;">
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="60" height="60"/>
+<br><strong>Tailwind CSS</strong>
+<br><sub>Utility-first CSS</sub>
+</td>
+<td align="center" width="20%" style="border: none; padding: 10px;">
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="60" height="60"/>
+<br><strong>Next.js</strong>
+<br><sub>React Framework</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="vertical-align: middle;">
+  Code Analytics
+</h2>
+
+<img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ansulagrawal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ansulagrawal&theme=tokyonight" alt="Profile Summary" />
+
+---
+
+<br/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FF6B6B&center=true&width=500&vCenter=true&separator=%3C&lines=%F0%9F%92%AC+Open+to+exciting+collaborations!%3C%F0%9F%9A%80+Let's+build+something+amazing!%3C%F0%9F%92%A1Always+ready+for+new+challenges!;%3C%F0%9F%8C%8D+Remote+collaboration+worldwide!" alt="Typing SVG" />
+</br>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=300&lines=Thanks+for+visiting!+%F0%9F%91%8B;Made+with+%E2%9D%A4%EF%B8%8F+and+%E2%98%95;Happy+Coding!+%F0%9F%9A%80" alt="Footer Typing" />
+</div>
+
+---
+
+<div align="center">
+  <p><sub>© 2025 Ansul Agrawal - Crafting digital experiences</sub></p>
+</div>
+
+---
